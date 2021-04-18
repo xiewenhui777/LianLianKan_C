@@ -1,0 +1,13 @@
+﻿  C课设连连看.cpp
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(14): warning C4083: 应输入“newline”；找到标识符“；”
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(695): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(696): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(700): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(703): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(704): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 39 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  C课设连连看.vcxproj -> D:\C课设连连看\Release\C课设连连看.exe

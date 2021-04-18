@@ -1,0 +1,10 @@
+﻿  C课设连连看.cpp
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(14): warning C4081: 应输入“newline”；找到“;”
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(338): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(339): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(695): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(696): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(700): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(703): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\c课设连连看\c课设连连看\c课设连连看.cpp(704): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  C课设连连看.vcxproj -> D:\C课设连连看\x64\Debug\C课设连连看.exe
