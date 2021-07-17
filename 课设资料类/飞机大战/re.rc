@@ -1,0 +1,94 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// IMAGE
+//
+
+BACKGROUND              IMAGE   DISCARDABLE     "bk1.jpg"
+IDR_IMAGE1 IMAGE DISCARDABLE 
+BEGIN
+
+END
+
+PLAYER                  IMAGE   DISCARDABLE     "player .jpg"
+PLAY                    IMAGE   DISCARDABLE     "play.jpg"
+BG2                     IMAGE   DISCARDABLE     "未标题-1.gif"
+ZIDAN1                  IMAGE   DISCARDABLE     "zidan.gif"
+ZHANGAI1                IMAGE   DISCARDABLE     "Enemy.gif"
+SHITOU                  IMAGE   DISCARDABLE     "Aerolite1.gif"
+DIREN1                  IMAGE   DISCARDABLE     "(T92~~]3DTOB4X0(XY16~HN.jpg"
+DIREN2                  IMAGE   DISCARDABLE     "X)(]H3RU([X8~GJL5`WN24J.jpg"
+DIREN3                  IMAGE   DISCARDABLE     "}U~B5N9V{)UFXP4HOVVS8]6.jpg"
+TOUMING                 IMAGE   DISCARDABLE     "touming.gif"
+bibang                  IMAGE   DISCARDABLE     "bigbang.gif"
+JINBI                   IMAGE   DISCARDABLE     "jinbi.gif"
+ZHUANGJI                IMAGE   DISCARDABLE     "S4B}(1QBVB6})U$166H]YIJ.jpg"
+DIREN4                  IMAGE   DISCARDABLE     "spaceship.jpg"
+DIREN5                  IMAGE   DISCARDABLE     "image2.bin"
+BIANJIEONE              IMAGE   DISCARDABLE     "bin00001.bin"
+BIANJIETHREE            IMAGE   DISCARDABLE     "bin00002.bin"
+BIANJIETWO              IMAGE   DISCARDABLE     "bin00003.bin"
+bianjiefour             IMAGE   DISCARDABLE     "spaceship.gif"
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
